@@ -1,5 +1,5 @@
 import './button.scss'
-import Loader from '../Loader/Loader.jsx'
+import Loader from '../Loader/Loader'
 
 const Button = ({ title, handleClick, isLoading, buttonClass }) => {
 	return (
